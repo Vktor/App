@@ -1,1 +1,41 @@
-[{"idMarca":1,"nombreMarca":"Dell","descripcion":"Empresa de tecnologia","email":"dell-corporatio@outlook.com","telefono":"2212323","website":null,"direccion":"USA"},{"idMarca":2,"nombreMarca":"HP","descripcion":"Empresa de tecnologia","email":"hp@corporation.com","telefono":"2311234","website":"","direccion":"CHINA"},{"idMarca":3,"nombreMarca":"ASUS","descripcion":"Empresa de tecnologia","email":null,"telefono":"1234631","website":null,"direccion":"USA"},{"idMarca":4,"nombreMarca":"TOSHIBA","descripcion":"Empresa de tecnologia","email":null,"telefono":"8751234","website":null,"direccion":"JAPON"},{"idMarca":8,"nombreMarca":"asd","descripcion":"asdas","email":"asd","telefono":"asda","website":"adsas","direccion":"adsasd"}]
+[{
+    "idMarca":1,
+    "nombreMarca":"Dell",
+    "descripcion":"Empresa de tecnologia",
+    "email":"dell-corporatio@outlook.com",
+    "telefono":"2212323",
+    "website":null,
+    "direccion":"USA"
+},{
+    "idMarca":2,
+    "nombreMarca":"HP",
+    "descripcion":"Empresa de tecnologia",
+    "email":"hp@corporation.com",
+    "telefono":"2311234",
+    "website":"",
+    "direccion":"CHINA"
+},{
+    "idMarca":3,
+    "nombreMarca":"ASUS",
+    "descripcion":"Empresa de tecnologia",
+    "email":null,
+    "telefono":"1234631",
+    "website":null,
+    "direccion":"USA"
+},{
+    "idMarca":4,
+    "nombreMarca":"TOSHIBA",
+    "descripcion":"Empresa de tecnologia",
+    "email":null,
+    "telefono":"8751234",
+    "website":null,
+    "direccion":"JAPON"
+},{
+    "idMarca":8,
+    "nombreMarca":"asd",
+    "descripcion":"asdas",
+    "email":"asd",
+    "telefono":"asda",
+    "website":"adsas",
+    "direccion":"adsasd"
+}]
