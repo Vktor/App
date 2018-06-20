@@ -5,6 +5,6 @@ $(document).ready(function() {
     $('#tabla').DataTable( {
         "processing": true,
         "serverSide": true,
-        "ajax": dataSet
+        "ajax": 'http://localhost:3000/datos.json'
     } );
 } );
